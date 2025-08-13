@@ -1,3 +1,3 @@
 ## Testing github
 
-testing git github on mac
+testing git & github on mac
